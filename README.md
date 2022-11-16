@@ -7,6 +7,8 @@ This repository provides materials for a session that is part of the [I2DS Tools
 
 ### Session contents
 
+This session, which you can find ([here](https://raw.githack.com/intro-to-data-science-22-workshop/15-MeasuringAndImprovingPerformance-Smith-Garro/blob/main/Measuring-and-Improving-Performance.html))
+
 This session will introduce you to the modern data wrangling workflow with R and dplyr. Data wrangling is one of the core steps in the data science workflow. dplyr is a grammar of data manipulation, providing a consistent set of verbs that help you solve the most common data manipulation challenges, including the manipulation of datasets and variables. 
 
 ### Main learning objectives
@@ -33,6 +35,6 @@ The material in this repository is made available under the [MIT license](http:/
 
 ## Statement of contributions
 
-**Simon Munzert** prepared the practice material and post-processed the recording.
+**Luke Smith** prepared the practice material, the improving performance R coding and markdown text, and the base PPT text for the improving performance section.
 
-**Kermit the Frog** prepared the presentation slides and recording. He also provided an example to the practice material.
+**Carmen Garro** prepared the presentation slides and recording. She also did the measuring performance R coding and put together the Rmarkdown file. 
