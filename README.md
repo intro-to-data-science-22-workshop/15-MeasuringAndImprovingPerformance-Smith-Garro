@@ -33,6 +33,6 @@ The material in this repository is made available under the [MIT license](http:/
 
 ## Statement of contributions
 
-**Luke Smith** prepared the practice material, the improving performance R coding and markdown text, and the base PPT text for the improving performance section.
+**Luke Smith** prepared the practice material, the improving performance R coding and markdown text, and the base text for the slides in the improving performance section.
 
 **Carmen Garro** prepared the presentation slides and recording. She also did the measuring performance R coding and put together the Rmarkdown file. 
