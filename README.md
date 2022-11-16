@@ -1,5 +1,4 @@
-# Working with dplyr
-
+# Measuring and Improving Performance
 
 ## Summary
 
@@ -7,27 +6,26 @@ This repository provides materials for a session that is part of the [I2DS Tools
 
 ### Session contents
 
-This session, which you can find ([here](https://raw.githack.com/intro-to-data-science-22-workshop/15-MeasuringAndImprovingPerformance-Smith-Garro/main/Measuring-and-Improving-Performance.html))
+This session will introduce the general idea of profiling code and benchmarking functions to find the faster and most efficient solutions. The packages profvis and bench allow you to do this through simple coding and very useful outputs.
 
-This session will introduce you to the modern data wrangling workflow with R and dplyr. Data wrangling is one of the core steps in the data science workflow. dplyr is a grammar of data manipulation, providing a consistent set of verbs that help you solve the most common data manipulation challenges, including the manipulation of datasets and variables. 
 
 ### Main learning objectives
 
-The goals of this session are to (1) equip you with conceptual knowledge about the dplyr package and data wrangling workflow, (2) show you the three key verbs of the pacakge, and (3) provide you with practice material as well as some further readings.
-
+The goals of this session are to 
+* equip you with general conepts of code performance and efficiency
+* show you the packages profvis and bench to use them for your code
+* provide you with hands on exercises for better comprehension
 
 ## Instructors
 
 - Luke Smith ([LinkedIn](https://www.linkedin.com/in/luke-a-smith/))
 - Carmen Garro ([LinkedIn](https://www.linkedin.com/in/carmen-garro-c/))
 
-
 ## Further resources
 
-- [dplyr overview at dplyr.tidyverse.org](https://dplyr.tidyverse.org/)
-- [Hands-on dplyr tutorial by Data School on YouTube](https://www.youtube.com/watch?v=jWjqLW-u3hc)
-- [R for Data Science book - part on data wrangling](https://r4ds.had.co.nz/wrangle-intro.html)
-
+- [Advanced R - Hadley Wickahm](https://adv-r.hadley.nz/)
+- [Efficient R programming - Colin Gillespie & Robin Lovelace](https://www.youtube.com/watch?v=jWjqLW-u3hc)
+- [Fast R Code](https://www.dartistics.com/fast-r-code.html)
 
 ## License
 
@@ -38,6 +36,3 @@ The material in this repository is made available under the [MIT license](http:/
 **Luke Smith** prepared the practice material, the improving performance R coding and markdown text, and the base PPT text for the improving performance section.
 
 **Carmen Garro** prepared the presentation slides and recording. She also did the measuring performance R coding and put together the Rmarkdown file. 
-
-
-[text](https://raw.githack.com/intro-to-data-science-22-workshop/15-MeasuringAndImprovingPerformance-Smith-Garro/main/Measuring-and-Improving-Performance.html)
