@@ -65,9 +65,9 @@ What if you want to see how quickly your code runs without necessarily having to
 ```{r}
 
 #First, we will assign the bench::system_time() function to an object in order to view them easily momentarily
-stats_readr <- bench::system_time(readr::read_csv("C:/Users/lasmi/OneDrive/Documents/Graduate School/Fall 2022 Semester/Intro to Data Science/GitHub Materials/IDS Workshop/15-MeasuringAndImprovingPerformance-Smith-Garro/flight_data.csv"))
+stats_readr <- bench::system_time(readr::read_csv("flight_data_smaller.csv"))
 
-stats_base <- bench::system_time(read.csv("C:/Users/lasmi/OneDrive/Documents/Graduate School/Fall 2022 Semester/Intro to Data Science/GitHub Materials/IDS Workshop/15-MeasuringAndImprovingPerformance-Smith-Garro/flight_data.csv"))
+stats_base <- bench::system_time(read.csv("flight_data_smaller.csv"))
 
 #Running just one line will allow you to observe how long it takes one item to run, while running both lines below simultaneously will allow you to compare them to each other
 stats_readr
